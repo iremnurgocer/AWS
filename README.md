@@ -4,7 +4,7 @@ Bulunan bilgiler: Amazon Web Servis, Amazon'a ait bir bulut bilişim sistemi. Bu
 
 Bazı Önemli AWS Hizmetleri:
 1. AWS Compute Services - Bulut Bilişim Hizmetleri
- 1.1	Amazon EC2 (Elastic Compute Cloud): EC2, işletim sisteminde kontrole sahip olduğunuz bulutta var olan bir sanal makinedir ve bu bulut sunucusunu istediğiniz zaman çalıştırabilirsiniz. 
+1.1	Amazon EC2 (Elastic Compute Cloud): EC2, işletim sisteminde kontrole sahip olduğunuz bulutta var olan bir sanal makinedir ve bu bulut sunucusunu istediğiniz zaman çalıştırabilirsiniz. 
 1.2	LightSail: Bu bulut bilişim aracı, uygulamalarınızı çalıştırmak için gereken bilgisayar ve ağ yeteneklerini çalıştırmak için otomatik olarak yönetir. 
 1.3	EKS (Elastic Container Service for Kubernetes): Bu araç sayesinde kurulum yapmadan Amazon bulut ortamında Kubernetes kullanmanıza izin verir . 
 1.4	AWS Lambda: Bu AWS hizmeti, bulutta işlevler çalıştırmanıza olanak tanır. Ayrıca bu araç yalnızca işlevleriniz çalıştığında ödeme yapmanızı ister ve bu sizin için büyük bir maliyet tasarrufu sağlar 
